@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to run fibre and other stuff throught my house without burning it down.
 - 💞️ I’m looking to collaborate on any php, crypto, node, redis, MACHINE LEARNING , project(s) that interest me.   I dont need money so no bring the projects!!!!!
 - 
-- 📫 How to reach me ...   (402)306-w5750 - phone or email jeremy@shoemoney.com is best
+ email jeremy@shoemoney.com is best
 
 <!---
 shoemoney/shoemoney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
