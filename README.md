@@ -51,7 +51,7 @@ Previously a **serial entrepreneur** with several **notable exits** 🚀, I am n
 ## 🔗 Socials  
 
 - 📘 [Facebook](https://www.facebook.com/anesthesiologist)  
-- 🐦 [Twitter/X](https://www.x.com/shoemoney)  
+- 🐦 [Twitter/X](https://www.x.com/shoemoney)  - YES IT GOT FUCKING HACKED A YEAR AGO AND I JUST CANT ANYMORE>
 - 🧑‍💻 [GitHub](https://www.github.com/shoemoney)  
 
 ---
