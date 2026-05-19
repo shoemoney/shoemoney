@@ -59,9 +59,11 @@ Previously a **serial entrepreneur** with several **notable exits** 🚀, I am n
 ## 🏆 Badges & Stats  
 
 ![GitHub Stats](https://githubstats.shoemoney.com/api?username=shoemoney&show_icons=true&theme=dark)  
-![Streak Stats](https://streak-stats.demolab.com/?user=shoemoney&theme=dark)  
+![Streak Stats](https://streak.shoemoney.com/?user=shoemoney&theme=dark)  
 ![Top Languages](https://githubstats.shoemoney.com/api/top-langs?username=shoemoney&langs_count=10&theme=dark)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=shoemoney&theme=dracula)  
+![Activity Graph](https://activity.shoemoney.com/graph?username=shoemoney&theme=github-compact)  
+![Trophies](https://trophy.shoemoney.com/?username=shoemoney&theme=dracula)  
+![Metrics](https://metrics.shoemoney.com/shoemoney?template=classic&base=header,activity,community,repositories,metadata)  
 
 ---
 
