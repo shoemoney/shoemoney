@@ -58,12 +58,12 @@ Previously a **serial entrepreneur** with several **notable exits** 🚀, I am n
 
 ## 🏆 Badges & Stats  
 
-![GitHub Stats](https://githubstats.shoemoney.com/api?username=shoemoney&show_icons=true&theme=dark)  
-![Streak Stats](https://streak.shoemoney.com/?user=shoemoney&theme=dark)  
-![Top Languages](https://githubstats.shoemoney.com/api/top-langs?username=shoemoney&langs_count=10&theme=dark)  
-![Activity Graph](https://activity.shoemoney.com/graph?username=shoemoney&theme=github-compact)  
-![Trophies](https://trophy.shoemoney.com/?username=shoemoney&theme=dracula)  
-![Metrics](https://metrics.shoemoney.com/shoemoney?template=classic&base=header,activity,community,repositories,metadata)  
+![GitHub Stats](https://githubstats.shoemoney.com/api?username=shoemoney&show_icons=true&theme=dark&v=2)  
+![Streak Stats](https://streak.shoemoney.com/?user=shoemoney&theme=dark&v=2)  
+![Top Languages](https://githubstats.shoemoney.com/api/top-langs?username=shoemoney&langs_count=10&theme=dark&v=2)  
+![Activity Graph](https://activity.shoemoney.com/graph?username=shoemoney&theme=github-compact&v=2)  
+![Trophies](https://trophy.shoemoney.com/?username=shoemoney&theme=dracula&v=2)  
+![Metrics](https://metrics.shoemoney.com/shoemoney?template=classic&base=header,activity,community,repositories,metadata&v=2)  
 
 ---
 
