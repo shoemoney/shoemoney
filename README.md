@@ -1,8 +1,8 @@
 # Jeremy Schoemaker
 
-Founder turned builder. Two exits (AuctionAds, $17M, 2007 · PAR Program, $12M, 2015). Former bank security engineer.
+Builder turned marketer turned Founder turned back to builder. Always an engineer. Two exits (AuctionAds, $17M, 2007 · PAR Program, $12M, 2015). Former bank security lead Linux engineer.
 
-eBay Star Developer Award, Most Innovative Application (2007) — cited by eBay for caching that served 30M impressions/month on 200K API calls.
+eBay Star Developer Award, Most Innovative Application (2007) — cited by eBay for caching that served 30M impressions/day on 200K API calls.
 
 Currently building AI infrastructure tooling: LLM credential vaults, usage-aware routing, local-model agents, and self-hosted developer tools.
 
